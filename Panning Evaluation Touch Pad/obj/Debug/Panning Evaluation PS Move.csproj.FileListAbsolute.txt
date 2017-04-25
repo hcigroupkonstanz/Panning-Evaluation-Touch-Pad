@@ -1,0 +1,1147 @@
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.DirectInput.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Microsoft.Contracts.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\MyoSharp.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\MyoSharp.pdb
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+D:\Dokumente\Visual Studio 2013\Projects\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.dll
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\MyoSharp.pdb
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\danie\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\MyoSharp.pdb
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\Daniel\Desktop\15_11_18\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.dll
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\15_12_07\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+F:\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\Desktop\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\Move\15_12_09\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+D:\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+D:\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+D:\Move\15_12_13\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Panning Evaluation Move\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Panning Evaluation Move\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Panning Evaluation Move\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\Daniel\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.dll
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\danie\Desktop\15_12_14\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\1.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\10.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\11.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\12.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\13.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\14.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\15.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\16.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\17.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\18.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\19.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\2.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\20.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\21.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\22.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\23.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\24.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\25.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\26.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\27.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\28.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\29.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\3.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\30.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\31.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\32.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\33.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\34.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\35.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\36.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\37.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\38.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\39.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\4.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\40.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\41.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\42.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\43.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\44.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\45.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\46.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\47.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\48.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\49.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\5.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\50.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\51.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\52.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\53.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\54.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\55.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\57.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\58.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\59.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\6.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\60.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\61.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\62.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\66.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\67.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\68.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\69.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\7.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\70.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\71.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\72.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\73.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\74.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\75.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\76.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\8.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\9.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\A.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\B.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\C.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\D.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\E.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\F.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\G.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\H.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\I.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\J.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\K.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\L.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\Logo.scale-100.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\M.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\myo_icon_blue_dot@2x.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\N.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\O.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\okSound.wav
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\P.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_GreenBall.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_MoveButton.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Assets\PSMove_NotDetected.png
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\PSMoveAPI\libpsmoveapi_tracker.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x64\myo.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\x86\myo.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.pdb
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\SharpDX.dll
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.baml
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\App.g.cs
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_Content.g.cs
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move_MarkupCompile.cache
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.g.resources
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning_Evaluation_PS_Move.Properties.Resources.resources
+C:\Users\danie\Desktop\16_12_30\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Spatial Memory Study\Panning Evaluation Move\17_01_02\Panning Evaluation PS Move\Panning Evaluation PS Move\bin\Debug\Panning Evaluation PS Move.exe.config
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Spatial Memory Study\Panning Evaluation Move\17_01_02\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.exe
+C:\Users\danie\OneDrive\Documents\Uni Konstanz\Hiwi\Spatial Memory Study\Panning Evaluation Move\17_01_02\Panning Evaluation PS Move\Panning Evaluation PS Move\obj\Debug\Panning Evaluation PS Move.pdb
