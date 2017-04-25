@@ -49,6 +49,7 @@ namespace Panning_Evaluation_Touch_Pad
         {
             if (mainWindow.isTouch)
             {
+                Directory.CreateDirectory(logFilesPath);
                 string filename = logFilesPath + filePathItemSetName + "Touch_" + mainWindow.ParticipantComboBox.SelectedIndex + "_" + DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss") + ".csv";
                 logFS = new FileStream(@filename, FileMode.OpenOrCreate, FileAccess.Write);
                 logSW = new StreamWriter(logFS);
@@ -58,6 +59,7 @@ namespace Panning_Evaluation_Touch_Pad
             }
             else
             {
+                Directory.CreateDirectory(logFilesPath);
                 string filename = logFilesPath + filePathItemSetName + "Pad_" + mainWindow.ParticipantComboBox.SelectedIndex + "_" + DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss") + ".csv";
                 logFS = new FileStream(@filename, FileMode.OpenOrCreate, FileAccess.Write);
                 logSW = new StreamWriter(logFS);
@@ -74,6 +76,7 @@ namespace Panning_Evaluation_Touch_Pad
         {
             if (mainWindow.isTouch)
             {
+                Directory.CreateDirectory(logFilesPath);
                 string filename = logFilesPath + "Touch_Recall_" + mainWindow.ParticipantComboBox.SelectedIndex + "_" + DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss") + ".csv";
                 recallLogFS = new FileStream(@filename, FileMode.OpenOrCreate, FileAccess.Write);
                 recallLogSW = new StreamWriter(recallLogFS);
@@ -83,6 +86,7 @@ namespace Panning_Evaluation_Touch_Pad
             }
             else
             {
+                Directory.CreateDirectory(logFilesPath);
                 string filename = logFilesPath + "Pad_Recall_" + mainWindow.ParticipantComboBox.SelectedIndex + "_" + DateTime.Now.ToString("yyyy_MM_dd_HH_mm_ss") + ".csv";
                 recallLogFS = new FileStream(@filename, FileMode.OpenOrCreate, FileAccess.Write);
                 recallLogSW = new StreamWriter(recallLogFS);
